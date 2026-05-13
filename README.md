@@ -40,11 +40,11 @@ Go to: **http://localhost/shopee_ph/**
 
 ## 🔑 Demo Accounts
 
-| Role   | Username     | Password    |
+| Role   | Username     | Password   |
 |--------|-------------|-------------|
-| Buyer  | buyer_pedro | password123 |
-| Seller | seller_juan | password123 |
-| Admin  | admin       | password123 |
+| Buyer  | buyer_pedro | password    |
+| Seller | seller_juan | password    |
+| Admin  | admin       | password    |
 
 ---
 
